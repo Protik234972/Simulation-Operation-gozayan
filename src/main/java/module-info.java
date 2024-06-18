@@ -24,4 +24,5 @@ module com.oop.simulationoperationgozayan {
     opens com.oop.simulationoperationgozayan.toushia.tour_agent to javafx.fxml;
     exports com.oop.simulationoperationgozayan.toushia.tour_agent;
 
+
 }
